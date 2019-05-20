@@ -1,7 +1,7 @@
 # Tutorial bach ar syd i gal y bot ma i weithio!
 
 # Safio y code off github
-1. Safio y code yn rwla hawdd i ffindio ar y PC. 
+1. Safio y code 'Bot.py' yn rwla hawdd i ffindio ar y PC. 
 
 # Installio Python 3.7 ar y machine
 1. Downloadio fo o fama https://www.python.org/downloads/release/python-370/
