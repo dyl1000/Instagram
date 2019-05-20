@@ -20,7 +20,7 @@
 10. Teipio selenium i fewn a installio version 3.14.10
 
 # Downloadio a installio Chrome Driver
-1. Downloadio chrome driver o fama http://chromedriver.chromium.org/downloads
+1. Downloadio chrome driver o fama http://chromedriver.chromium.org/downloads (checia pa version o chrome ti'n rhedeg ar chrome 'Help > About Google Chrome')
 2. Safio/ symud y file na i run un location a ma 'instagram' project file chdi ("C:\Users\dyl10\PycharmProjects\Instagram\chromedriver.exe") ydy lle mae un fi.
 
 # Rhedeg y file
